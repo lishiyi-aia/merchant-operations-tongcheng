@@ -1,0 +1,9 @@
+web/node_modules/
+web/dist/
+web/.vite-cache/
+**/*.tsbuildinfo
+.DS_Store
+qa/
+github-publication.json
+github-publish.mjs
+original-source-hashes.json
